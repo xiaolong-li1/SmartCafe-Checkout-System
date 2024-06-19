@@ -49,14 +49,5 @@
     - 用于结算。
 
 ## 视频演示
-
 项目的视频演示可以参考以下链接：
 
-<div align="center">
-  <video width="640" height="360" controls>
-    <source src="https://github.com/xiaolong-li1/-/assets/118044517/f90db73b-5cfe-462f-976d-ec4dbdecca6e" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-[项目视频演示](https://github.com/xiaolong-li1/-/assets/118044517/f90db73b-5cfe-462f-976d-ec4dbdecca6e)
----
