@@ -50,4 +50,8 @@
 
 ## 视频演示
 项目的视频演示可以参考以下链接：
+## 视频演示
+<video  src="https://github.com/xiaolong-li1/-/assets/118044517/cb1d7b1b-0e68-4b15-a0e7-afd03b6db4e6" type="video/mp4"> 
+
+
 
